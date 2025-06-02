@@ -17,49 +17,49 @@ The project also includes visualizations of convolutional filters, feature maps 
 - **50,000** training and **10,000** test images (32x32 pixels, RGB)
 
 **Sample images:**
-![Sample images](img/1.png)
+![Sample images](images/1.png)
 
 **Class distribution:**
-![Class distribution](img/2.png)
+![Class distribution](images/2.png)
 
 ---
 
 ## Model Architectures
 
 **MLP Architecture:**  
-![MLP Architecture](img/3.png)
+![MLP Architecture](images/3.png)
 
 **MLP Training Progress:**  
-![MLP Training](img/4.png)
+![MLP Training](images/4.png)
 
 **CNN Architecture:**  
-![CNN Architecture](img/5.png)
+![CNN Architecture](images/5.png)
 
 **CNN Training Progress:**  
-![CNN Training](img/6.png)
+![CNN Training](images/6.png)
 
 ---
 
 ##  Model Evaluation
 
 **CNN Confusion Matrix:**  
-![CNN Confusion Matrix](img/7.png)
+![CNN Confusion Matrix](images/7.png)
 
 ---
 
 ##  CNN Internals
 
 **Visualization of the first convolutional filters:**  
-![Conv Filters](img/8.png)
+![Conv Filters](images/8.png)
 
 **Visualization of the first layer activations:**  
-![Conv Activations](img/9.png)
+![Conv Activations](images/9.png)
 
 ---
 
 ##  MLP vs CNN: Validation Accuracy
 
-![CNN vs MLP Validation Accuracy](img/10.png)
+![CNN vs MLP Validation Accuracy](images/10.png)
 
 - The CNN clearly outperforms the MLP on validation accuracy.
 - Convolutional layers help the model learn spatial features, which is essential for image data.
